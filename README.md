@@ -1,6 +1,11 @@
 # hello_world Package Readme
 #### by Bryce Tuppurainen
 
+Intiially created using:
+```bash
+~$ dart create -t hello_world
+```
+
 This is a simple hello world dart package demonstrating the import of a function and class from a package
 
 ## Features

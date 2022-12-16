@@ -1,9 +1,9 @@
-# hello_world Package Readme
+# hello_world_template Package Readme
 #### by Bryce Tuppurainen
 
 Initially created using:
 ```bash
-~$ dart create -t hello_world
+~$ dart create -t hello_world_template
 ```
 
 This is a simple hello world dart package demonstrating the import of a function and class from a package
@@ -15,7 +15,7 @@ Simply allows you to create a hello world message, either by calling the functio
 ## Usage
 
 ```dart
-import 'package:hello_world/hello_world.dart';
+import 'package:hello_world_template/hello_world.dart';
 
 /// Prints 'Hello World!' to the console three times
 void main() {

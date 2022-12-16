@@ -1,13 +1,10 @@
-name: hello_world
+name: hello_world_template
 description: A simple command-line package that allows you to run a helloWorld function call or create a simple HelloWorld class that has a method call to print out "Hello World!", this is a simple package that was used to learn how to create a package and how to publish it to pub.dev please feel free to use this package as a template for your own similar first-packages.
 version: 1.0.0
 repository: "https://github.com/BryceTuppurainen/dart_hello_world"
 
 environment:
   sdk: ">=2.18.3 <3.0.0"
-
-# dependencies:
-#   path: ^1.8.0
 
 dev_dependencies:
   lints: ^2.0.0

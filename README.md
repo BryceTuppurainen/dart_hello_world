@@ -1,7 +1,7 @@
 # hello_world Package Readme
 #### by Bryce Tuppurainen
 
-Intiially created using:
+Initially created using:
 ```bash
 ~$ dart create -t hello_world
 ```

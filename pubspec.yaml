@@ -1,6 +1,6 @@
 name: hello_world_template
 description: A simple command-line package that allows you to run a helloWorld function call or sayIt method
-version: 1.0.0
+version: 1.0.1
 repository: "https://github.com/BryceTuppurainen/dart_hello_world"
 
 environment:

@@ -3,7 +3,7 @@
 
 Initially created using:
 ```bash
-~$ dart create -t hello_world_template
+~$ dart create -t package hello_world_template
 ```
 
 This is a simple hello world dart package demonstrating the import of a function and class from a package
